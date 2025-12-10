@@ -1,0 +1,14 @@
+{
+  "demo": {
+    "created_at": 1765181415,
+    "value": "{\"msg\":\"hello\",\"n\":5}"
+  },
+  "demo_value": {
+    "created_at": 1765273568,
+    "value": "{\"message\":\"Stage 5\",\"stage\":5,\"time\":\"2025-12-09T10:46:08.552413+01:00\"}"
+  },
+  "user2": {
+    "created_at": 1765098833,
+    "value": ""
+  }
+}

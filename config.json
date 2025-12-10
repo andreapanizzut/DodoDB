@@ -1,0 +1,7 @@
+{
+  "port": 8888,
+  "log_level": "info",
+  "snapshot_path": "snapshot.json",
+  "snapshot_interval": 30,
+  "server_version": "1.0.0"
+}
